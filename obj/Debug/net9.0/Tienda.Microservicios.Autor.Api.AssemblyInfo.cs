@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tienda.Microservicios.Autor.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da98df6a4f163f354dd56de4db9d2642cc1bfedd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tienda.Microservicios.Autor.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tienda.Microservicios.Autor.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
